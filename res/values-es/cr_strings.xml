@@ -1128,7 +1128,7 @@
 
     <!-- 4G LTE switch -->
     <string name="show_fourg_title">Mostrar 4G en vez de LTE</string>
-    <string name="show_fourg_summary">Reemplaza LTE por 4G en el indicador de la barra de estado. Se requiere reiniciar el sistema para surgirr efecto.</string>
+    <string name="show_fourg_summary">Reemplaza LTE por 4G en el indicador de la barra de estado. Se requiere reiniciar el sistema para surgir efecto.</string>
     <string name="statusbar_tuner_category_title">Ocultar los elementos de la barra de estado</string>
 
 </resources>
